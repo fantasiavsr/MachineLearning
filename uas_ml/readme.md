@@ -4,3 +4,5 @@
 <li>Muhammad Al Kausar Ramadhan / 2041720193</li>
 <li>Muhamad Alif Rizki / 2041720196</li>
 <li>R. Muhammad Azmi Herdi / 2041720079</li>
+
+![image](https://user-images.githubusercontent.com/86558365/209627599-f1ffd362-033e-43ac-b10e-d4a2d62e7a91.png)
